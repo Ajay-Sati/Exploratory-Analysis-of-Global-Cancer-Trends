@@ -23,9 +23,6 @@ The notebook delivers a clean and analyzable dataset along with structured insig
 - Python 3.x
 - Pandas – Data manipulation
 - NumPy – Numerical operations
-
-Matplotlib – Visualization
-
-Seaborn – Statistical plotting
-
-Jupyter Notebook – Interactive analysis environment
+- Matplotlib – Visualization
+- Seaborn – Statistical plotting
+- Jupyter Notebook – Interactive analysis environment
